@@ -1,0 +1,30 @@
+/*Christopher Ermel*/
+/*200250446*/
+#wrapper{
+	text-align: center;
+}
+#taskWrapper{
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: left;
+	background-color: lightgrey;
+	color: black;
+}
+.allTasks{
+	background-color: green;
+	font-size: 20px;
+	text-align: center;
+	height: 21px;
+}
+.lineThrough{
+	background-color: red;
+	font-size: 12px;
+	text-align: center;
+	height: 21px;
+}
+.checkBox{
+	float: left;
+}
+#deleteButton{
+	float: right;
+}
